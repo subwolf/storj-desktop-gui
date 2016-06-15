@@ -1,0 +1,28 @@
+{
+  "name": "storj-desktop-gui",
+  "version": "0.0.1",
+  "description": "Desktop GUI for Storj Bridge",
+  "main": "index.js",
+  "directories": {
+    "test": "test",
+    "lib": "lib",
+    "doc": "doc",
+    "bin": "bin"
+  },
+  "keywords": [
+    "storj",
+    "p2p"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subwolf/storj-desktop-gui.git"
+  },
+  "author": "Robin Beckett <subwolf@gmail.com>",
+  "license": "AGPL-3.0",
+  "engines": {
+    "node": "^4.4.4"
+  },
+  "dependencies": {
+    "storj": "^1.2.5"
+  }
+}
