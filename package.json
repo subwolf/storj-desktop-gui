@@ -9,6 +9,9 @@
     "doc": "doc",
     "bin": "bin"
   },
+  "bin": {
+    "storj-desktop-gui": "bin/storj-desktop-gui.js"
+  },
   "keywords": [
     "storj",
     "p2p"
