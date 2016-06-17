@@ -23,6 +23,10 @@
     "node": "^4.4.4"
   },
   "dependencies": {
-    "storj": "^1.2.5"
+    "storj": "^1.2.5",
+    "chokidar": "^1.5.2",
+    "electron-prebuilt" : "^0.36.0",
+    "electron-mocha": "^0.6.3",
+    "tmp": "0.0.28",
   }
 }
